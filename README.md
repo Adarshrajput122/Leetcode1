@@ -27,3 +27,11 @@ Collection of LeetCode questions which I solve daily .
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/Adarshrajput122/Leetcode1/tree/master/2573-remove-nodes-from-linked-list) |
+# Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Adarshrajput122/Leetcode1/tree/master/0035-search-insert-position) |
+# Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Adarshrajput122/Leetcode1/tree/master/0035-search-insert-position) |
