@@ -42,3 +42,14 @@ Collection of LeetCode questions which I solve daily .
 |  |
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/2323-minimum-bit-flips-to-convert-number) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Adarshrajput122/Leetcode1/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Adarshrajput122/Leetcode1/tree/master/0020-valid-parentheses) |
+<!---LeetCode Topics End-->
