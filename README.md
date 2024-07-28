@@ -55,6 +55,7 @@ Collection of LeetCode questions which I solve daily .
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarshrajput122/Leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
@@ -83,4 +84,8 @@ Collection of LeetCode questions which I solve daily .
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarshrajput122/Leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
