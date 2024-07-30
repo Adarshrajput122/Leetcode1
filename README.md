@@ -47,6 +47,7 @@ Collection of LeetCode questions which I solve daily .
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Adarshrajput122/Leetcode1/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Adarshrajput122/Leetcode1/tree/master/0020-valid-parentheses) |
 | [0680-valid-palindrome-ii](https://github.com/Adarshrajput122/Leetcode1/tree/master/0680-valid-palindrome-ii) |
 ## Stack
@@ -77,10 +78,12 @@ Collection of LeetCode questions which I solve daily .
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Adarshrajput122/Leetcode1/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Adarshrajput122/Leetcode1/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0268-missing-number) |
 ## Sorting
 |  |
