@@ -48,6 +48,7 @@ Collection of LeetCode questions which I solve daily .
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adarshrajput122/Leetcode1/tree/master/0020-valid-parentheses) |
+| [0680-valid-palindrome-ii](https://github.com/Adarshrajput122/Leetcode1/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Collection of LeetCode questions which I solve daily .
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0287-find-the-duplicate-number) |
+| [0680-valid-palindrome-ii](https://github.com/Adarshrajput122/Leetcode1/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,4 +90,8 @@ Collection of LeetCode questions which I solve daily .
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarshrajput122/Leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Adarshrajput122/Leetcode1/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
