@@ -49,6 +49,7 @@ Collection of LeetCode questions which I solve daily .
 | ------- |
 | [0012-integer-to-roman](https://github.com/Adarshrajput122/Leetcode1/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Adarshrajput122/Leetcode1/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0151-reverse-words-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Adarshrajput122/Leetcode1/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
@@ -63,6 +64,7 @@ Collection of LeetCode questions which I solve daily .
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/Adarshrajput122/Leetcode1/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
