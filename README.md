@@ -51,6 +51,7 @@ Collection of LeetCode questions which I solve daily .
 | [0020-valid-parentheses](https://github.com/Adarshrajput122/Leetcode1/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0151-reverse-words-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Adarshrajput122/Leetcode1/tree/master/0680-valid-palindrome-ii) |
+| [0812-rotate-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -102,4 +103,8 @@ Collection of LeetCode questions which I solve daily .
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Adarshrajput122/Leetcode1/tree/master/0680-valid-palindrome-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/2032-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
