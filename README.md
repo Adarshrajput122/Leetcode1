@@ -88,6 +88,7 @@ Collection of LeetCode questions which I solve daily .
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Adarshrajput122/Leetcode1/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/Adarshrajput122/Leetcode1/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
@@ -97,6 +98,7 @@ Collection of LeetCode questions which I solve daily .
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Adarshrajput122/Leetcode1/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarshrajput122/Leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
@@ -107,4 +109,8 @@ Collection of LeetCode questions which I solve daily .
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0812-rotate-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Adarshrajput122/Leetcode1/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
