@@ -74,6 +74,7 @@ Collection of LeetCode questions which I solve daily .
 | ------- |
 | [0268-missing-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Adarshrajput122/Leetcode1/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Collection of LeetCode questions which I solve daily .
 | [0012-integer-to-roman](https://github.com/Adarshrajput122/Leetcode1/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Adarshrajput122/Leetcode1/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Adarshrajput122/Leetcode1/tree/master/0367-valid-perfect-square) |
 | [2032-largest-odd-number-in-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
 |  |
