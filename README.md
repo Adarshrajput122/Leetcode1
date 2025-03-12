@@ -49,6 +49,7 @@ Collection of LeetCode questions which I solve daily .
 | ------- |
 | [0012-integer-to-roman](https://github.com/Adarshrajput122/Leetcode1/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Adarshrajput122/Leetcode1/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Adarshrajput122/Leetcode1/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0151-reverse-words-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Adarshrajput122/Leetcode1/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0812-rotate-string) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions which I solve daily .
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Adarshrajput122/Leetcode1/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Adarshrajput122/Leetcode1/tree/master/0455-assign-cookies) |
