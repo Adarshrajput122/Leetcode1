@@ -62,6 +62,7 @@ Collection of LeetCode questions which I solve daily .
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarshrajput122/Leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshrajput122/Leetcode1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Adarshrajput122/Leetcode1/tree/master/0455-assign-cookies) |
@@ -70,12 +71,14 @@ Collection of LeetCode questions which I solve daily .
 | ------- |
 | [0125-valid-palindrome](https://github.com/Adarshrajput122/Leetcode1/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshrajput122/Leetcode1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Adarshrajput122/Leetcode1/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Adarshrajput122/Leetcode1/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshrajput122/Leetcode1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Adarshrajput122/Leetcode1/tree/master/0367-valid-perfect-square) |
