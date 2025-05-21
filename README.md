@@ -63,6 +63,7 @@ Collection of LeetCode questions which I solve daily .
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adarshrajput122/Leetcode1/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Adarshrajput122/Leetcode1/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarshrajput122/Leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshrajput122/Leetcode1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0268-missing-number) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions which I solve daily .
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adarshrajput122/Leetcode1/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Adarshrajput122/Leetcode1/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Adarshrajput122/Leetcode1/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshrajput122/Leetcode1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -107,6 +109,7 @@ Collection of LeetCode questions which I solve daily .
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Adarshrajput122/Leetcode1/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Adarshrajput122/Leetcode1/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
