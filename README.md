@@ -54,6 +54,7 @@ Collection of LeetCode questions which I solve daily .
 | [0151-reverse-words-in-a-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Adarshrajput122/Leetcode1/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Adarshrajput122/Leetcode1/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/2032-largest-odd-number-in-string) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions which I solve daily .
 | [0287-find-the-duplicate-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Adarshrajput122/Leetcode1/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Adarshrajput122/Leetcode1/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Adarshrajput122/Leetcode1/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
@@ -104,6 +106,7 @@ Collection of LeetCode questions which I solve daily .
 | [0012-integer-to-roman](https://github.com/Adarshrajput122/Leetcode1/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +167,7 @@ Collection of LeetCode questions which I solve daily .
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarshrajput122/Leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adarshrajput122/Leetcode1/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
