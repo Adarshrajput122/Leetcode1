@@ -175,5 +175,6 @@ Collection of LeetCode questions which I solve daily .
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Adarshrajput122/Leetcode1/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Adarshrajput122/Leetcode1/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
