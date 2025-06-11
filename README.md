@@ -70,6 +70,7 @@ Collection of LeetCode questions which I solve daily .
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarshrajput122/Leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshrajput122/Leetcode1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adarshrajput122/Leetcode1/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Adarshrajput122/Leetcode1/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Adarshrajput122/Leetcode1/tree/master/0455-assign-cookies) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions which I solve daily .
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarshrajput122/Leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Adarshrajput122/Leetcode1/tree/master/0012-integer-to-roman) |
+| [0219-contains-duplicate-ii](https://github.com/Adarshrajput122/Leetcode1/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0567-permutation-in-string) |
@@ -166,6 +168,7 @@ Collection of LeetCode questions which I solve daily .
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarshrajput122/Leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adarshrajput122/Leetcode1/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Adarshrajput122/Leetcode1/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
