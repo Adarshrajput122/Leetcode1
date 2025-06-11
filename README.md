@@ -172,4 +172,8 @@ Collection of LeetCode questions which I solve daily .
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adarshrajput122/Leetcode1/tree/master/0209-minimum-size-subarray-sum) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Adarshrajput122/Leetcode1/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
