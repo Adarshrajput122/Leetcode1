@@ -74,6 +74,7 @@ Collection of LeetCode questions which I solve daily .
 | [0268-missing-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Adarshrajput122/Leetcode1/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Adarshrajput122/Leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Collection of LeetCode questions which I solve daily .
 | [0268-missing-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Adarshrajput122/Leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +125,7 @@ Collection of LeetCode questions which I solve daily .
 | [0015-3sum](https://github.com/Adarshrajput122/Leetcode1/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Adarshrajput122/Leetcode1/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Adarshrajput122/Leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -171,6 +174,7 @@ Collection of LeetCode questions which I solve daily .
 | [0219-contains-duplicate-ii](https://github.com/Adarshrajput122/Leetcode1/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Adarshrajput122/Leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -182,4 +186,8 @@ Collection of LeetCode questions which I solve daily .
 | [0595-big-countries](https://github.com/Adarshrajput122/Leetcode1/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Adarshrajput122/Leetcode1/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Adarshrajput122/Leetcode1/tree/master/1908-recyclable-and-low-fat-products) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Adarshrajput122/Leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
