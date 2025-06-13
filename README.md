@@ -75,6 +75,7 @@ Collection of LeetCode questions which I solve daily .
 | [0287-find-the-duplicate-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Adarshrajput122/Leetcode1/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Adarshrajput122/Leetcode1/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Adarshrajput122/Leetcode1/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,6 +176,7 @@ Collection of LeetCode questions which I solve daily .
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Adarshrajput122/Leetcode1/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Adarshrajput122/Leetcode1/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
