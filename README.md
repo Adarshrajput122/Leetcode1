@@ -192,4 +192,8 @@ Collection of LeetCode questions which I solve daily .
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Adarshrajput122/Leetcode1/tree/master/0594-longest-harmonious-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Adarshrajput122/Leetcode1/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
