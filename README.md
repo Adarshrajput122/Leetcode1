@@ -195,5 +195,10 @@ Collection of LeetCode questions which I solve daily .
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Adarshrajput122/Leetcode1/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Adarshrajput122/Leetcode1/tree/master/0237-delete-node-in-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Adarshrajput122/Leetcode1/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
