@@ -82,6 +82,7 @@ Collection of LeetCode questions which I solve daily .
 | [0011-container-with-most-water](https://github.com/Adarshrajput122/Leetcode1/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Adarshrajput122/Leetcode1/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Adarshrajput122/Leetcode1/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/Adarshrajput122/Leetcode1/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshrajput122/Leetcode1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0287-find-the-duplicate-number) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions which I solve daily .
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarshrajput122/Leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Adarshrajput122/Leetcode1/tree/master/0012-integer-to-roman) |
+| [0142-linked-list-cycle-ii](https://github.com/Adarshrajput122/Leetcode1/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Adarshrajput122/Leetcode1/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Adarshrajput122/Leetcode1/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adarshrajput122/Leetcode1/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -195,6 +197,7 @@ Collection of LeetCode questions which I solve daily .
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Adarshrajput122/Leetcode1/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Adarshrajput122/Leetcode1/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Adarshrajput122/Leetcode1/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
